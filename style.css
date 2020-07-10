@@ -5,15 +5,14 @@
 }
 
 body {
-    background: rgba(255, 255, 255, 0.85);
+    background:#f3fde1;
     color:#1A2622;
     font-family: 'Merriweather', serif;
 }
 
 header {
-    padding: 20px;
-    border-bottom: 1px solid #E4E88A ;
-    background: #66B2FF;
+    padding-top: 30px;
+    background:#f3fde1;
 }
 
 header img {
@@ -30,14 +29,14 @@ header h2 a {
 }
 
 header h2 a:hover {
-    color: white;
+    color: blue;
     transition: 200ms;
 }
 .block {
     margin: 40px auto;
     width: 940px;
     height: 366px;
-    background-color:  #E4E88A;
+    background: linear-gradient(90deg, rgb(204, 204, 255), rgb(0, 179, 255));
     border-radius: 15px;
 }
 
@@ -71,8 +70,21 @@ header h2 a:hover {
     height: 300px;
     margin-left: 620px;
     margin-top: -160px;
+    animation-name: cook;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
     
 }
+@keyframes cook {
+        0% {
+            transform: scale(1);
+          }
+        50% {
+            transform: scale(0.8);
+          }
+    }
+
+
 
 #content {
     padding-top: 30px;
@@ -112,9 +124,11 @@ header h2 a:hover {
 }
 
 #footer p {
+    font-size: 14px;
+    color:#999999;
     height: 62px;
     margin-top: 600px;
-    background-color: white;
+    background-color:rgba(240, 238, 238, 0.85);
     text-align: center;
     line-height: 70px;
 }
