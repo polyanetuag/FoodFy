@@ -2,14 +2,15 @@
     <img alt="" src="./assets/logo.png" width="200px" />
 </h1>
 
-<p align="center">
+<h2 align="center">Desafio do LaunchBase- Rocketseat</h2>
 
-  <a href="#file_cabinet-materiais">Materiais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-desafios">Projeto</a>
- 
+<p align="center">
+  <a href="fork_and_knife">Materiais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="fork_and_knife">Projeto</a>
 </p>
 
-<h2 align="center">Construção de um site completo para uma empresa de receitas chamada Foodfy <br> Desafio do LaunchBase- Rocketseat</h2>
+<h2 align="center">Construção de um site completo para uma empresa de receitas chamada Foodfy 
+</h2>
 
 <p align="center">
     <img alt="" src="./assets/mockup.png" width="600px" />
@@ -22,12 +23,15 @@
 
 ## :fork_and_knife: Projeto
 
-O projeto consiste em criar um site de receitas fictício como exercício de aprendizado. Nele, há uma página inicial, apresentando as receitas mais acessadas.
+<h2> O projeto consiste em criar um site de receitas fictício como exercício de aprendizado. Nele, há uma página inicial, apresentando as receitas mais acessadas.
+</h2>
 
 ### Menu
 
-- Sobre : contém as informações do Foodfy;
-- Receitas : apresenta todas as receitas disponíveis, além de um modal com as suas informações.
+<h2> 
+<strong>- Sobre</strong> : contém as informações do Foodfy; <br>
+<strong>- Receitas</strong> : apresenta todas as receitas disponíveis, além de um modal com as suas informações.
+</h2>
 
 
 
