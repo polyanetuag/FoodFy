@@ -5,20 +5,21 @@
 }
 
 body {
-    background: #E0F2C1;
-    color: black;
+    background: rgba(255, 255, 255, 0.85);
+    color:#1A2622;
     font-family: 'Merriweather', serif;
 }
 
 header {
     padding: 20px;
     border-bottom: 1px solid #E4E88A ;
-    background: rgb(243, 228, 208);
+    background: #66B2FF;
 }
 
 header img {
     width: 100px;
-    margin-left: 150px;
+    margin-left: 270px;
+    margin-right: 50px;
 }
 
 header h2 a {
@@ -29,19 +30,19 @@ header h2 a {
 }
 
 header h2 a:hover {
-    color: blue;
+    color: white;
     transition: 200ms;
 }
 .block {
     margin: 40px auto;
     width: 940px;
     height: 366px;
-    background-color: #66B2FF;
+    background-color:  #E4E88A;
     border-radius: 15px;
 }
 
 #intro {
-    color: white;
+    color:#1A2622;
     width: 940px;
     height: 366px;
     padding-left: 15px;
@@ -79,10 +80,10 @@ header h2 a:hover {
 }
 .recipes {
     max-width: 1000px;
-    margin: 0 auto;
+    margin: 0px auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 30px;
+    gap: 25px;
 }
 
 .content-block {
@@ -110,9 +111,10 @@ header h2 a:hover {
     padding-left: 5px;
 }
 
-.footer {
-    text-align: center;
-    margin-top: 350px;
+#footer p {
+    height: 62px;
+    margin-top: 600px;
     background-color: white;
-    padding: 15px;
+    text-align: center;
+    line-height: 70px;
 }
