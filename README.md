@@ -4,12 +4,11 @@
 
 <p align="center">
   <a href="#file_cabinet-materiais">Materiais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-desafios">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-  <a href="#memo-licença">Licença</a>
+  <a href="#rocket-desafios">Projeto</a>
+ 
 </p>
 
-## Construção de um site completo para uma empresa de receitas chamada Foodfy. Desafio do LaunchBase- Rocketseat
+<h2 align="center">Construção de um site completo para uma empresa de receitas chamada Foodfy <br> Desafio do LaunchBase- Rocketseat</h2>
 
 
 <p align="center">
@@ -21,5 +20,10 @@
 - CSS
 - JAVASCRIPT
 
-## :rocket: Projeto
+## :fork_and_knife: Projeto
+
+O projeto consiste em criar um site de receitas fictício como exercício de aprendizado. Nele, há uma página inicial, apresentando as receitas mais acessadas.
+
+No menu, há uma página SOBRE, onde contém as informações do Foodfy, e uma página RECEITAS, apresentando todas as receitas disponíveis, além de um modal com as suas informações.
+
 
