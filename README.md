@@ -23,15 +23,15 @@
 
 ## :fork_and_knife: Projeto
 
-<h2> O projeto consiste em criar um site de receitas fictício como exercício de aprendizado. Nele, há uma página inicial, apresentando as receitas mais acessadas.
-</h2>
+<h3> O projeto consiste em criar um site de receitas fictício como exercício de aprendizado. Nele, há uma página inicial, apresentando as receitas mais acessadas.
+</h3>
 
 ### Menu
 
-<h2> 
+<h3> 
 <strong>- Sobre</strong> : contém as informações do Foodfy; <br>
 <strong>- Receitas</strong> : apresenta todas as receitas disponíveis, além de um modal com as suas informações.
-</h2>
+</h3>
 
 
 
