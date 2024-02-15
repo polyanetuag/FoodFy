@@ -23,8 +23,8 @@
 
 ## :fork_and_knife: Projeto
 
-<h3> O projeto consiste em criar um site de receitas fictício como exercício de aprendizado. Nele, há uma página inicial, apresentando as receitas mais acessadas.
-</h3>
+<p> O projeto consiste em criar um site de receitas fictício como exercício de aprendizado. Nele, há uma página inicial, apresentando as receitas mais acessadas.
+</p>
 
 ### Menu
 
