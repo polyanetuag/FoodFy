@@ -9,8 +9,8 @@
   <a href="fork_and_knife">Projeto</a>
 </p>
 
-<h2 align="center">Construção de um site completo para uma empresa de receitas chamada Foodfy 
-</h2>
+<p align="center">Construção de um site completo para uma empresa de receitas chamada Foodfy 
+</p>
 
 <p align="center">
     <img alt="" src="./assets/mockup.png" width="600px" />
