@@ -28,10 +28,10 @@
 
 ### Menu
 
-<h3> 
+<p> 
 <strong>- Sobre</strong> : contém as informações do Foodfy; <br>
 <strong>- Receitas</strong> : apresenta todas as receitas disponíveis, além de um modal com as suas informações.
-</h3>
+</p>
 
 
 
