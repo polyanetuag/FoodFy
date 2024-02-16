@@ -5,7 +5,7 @@
 <h2 align="center">Desafio do LaunchBase- Rocketseat</h2>
 
 <p align="center">
-  <a href="fork_and_knife">Materiais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="fork_and_knife">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="fork_and_knife">Projeto</a>
 </p>
 
@@ -16,7 +16,7 @@
     <img alt="" src="./assets/mockup.png" width="600px" />
 </p>
 
-## :fork_and_knife: Materiais
+## :fork_and_knife: Tecnologias
 - HTML
 - CSS
 - JAVASCRIPT
