@@ -25,7 +25,10 @@
 
 <p> O projeto consiste em criar um site de receitas fictício como exercício de aprendizado na tecnologia javascript. </p>
 
-<p>Nele, há uma página inicial, apresentando as receitas mais acessadas, como também uma página sobre as informações do restaurante e outra página contendo todas as receitas do site.</p>
+<p>Nele, há: </p> 
+- uma página inicial, apresentando as receitas mais acessadas, <br/>
+- uma página sobre as informações do restaurante e, <br/>
+- uma página contendo todas as receitas do site.
 
 
 ### Menu
