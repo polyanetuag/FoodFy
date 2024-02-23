@@ -38,5 +38,11 @@
 <strong>- Receitas</strong> : apresenta todas as receitas disponíveis, além de um modal com as suas informações.
 </p>
 
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+Desenvolvido com 💜 por Polyane Tuag
 
 
