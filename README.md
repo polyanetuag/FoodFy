@@ -2,7 +2,7 @@
     <img alt="" src="./assets/logo.png" width="200px" />
 </h1>
 
-<h2 align="center">Desafio do LaunchBase- Rocketseat</h2>
+<h2 align="center">Desafio do LaunchBase - Rocketseat</h2>
 
 <p align="center">
   <a href="fork_and_knife">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
