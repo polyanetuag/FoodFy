@@ -9,7 +9,7 @@
   <a href="fork_and_knife">Projeto</a>
 </p>
 
-<p align="center">Construção de um site de receitas chamado <b>Foodfy</b> 
+
 </p>
 
 <p align="center">
