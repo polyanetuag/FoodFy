@@ -17,7 +17,7 @@
 </p>
 
 ## :fork_and_knife: Tecnologias
-- HTML
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - CSS
 - JAVASCRIPT
 
