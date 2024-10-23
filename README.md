@@ -18,7 +18,7 @@
 
 ## :fork_and_knife: Tecnologias
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- CSS
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - JAVASCRIPT
 
 ## :fork_and_knife: Projeto
