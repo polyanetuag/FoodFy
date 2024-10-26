@@ -35,7 +35,7 @@
 
 <p> 
 <strong>- Sobre</strong> : contém as informações do Foodfy; <br>
-<strong>- Receitas</strong> : apresenta todas as receitas disponíveis, além de um modal com as suas informações.
+<strong>- Receitas</strong> : apresenta todas as receitas disponíveis, e ao clicar em uma receita, há um modal com as suas informações.
 </p>
 
 ## 📝 Licença
