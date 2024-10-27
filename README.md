@@ -26,6 +26,7 @@
 <p> O objetivo do projeto foi criar um site de receitas fictício como exercício de aprendizado na tecnologia javascript. </p>
 
 <p>O site possui a seguinte estrutura: </p> 
+
 - uma página inicial, apresentando as receitas mais acessadas, <br/>
 - uma página sobre as informações do restaurante e, <br/>
 - uma página contendo todas as receitas do site.
