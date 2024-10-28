@@ -23,7 +23,7 @@
 
 ## :fork_and_knife: Projeto
 
-<p> O objetivo do projeto foi criar um site de receitas fictício como exercício de aprendizado na tecnologia javascript. </p>
+<p> O objetivo do projeto foi criar um site de receitas fictício como exercício de aprendizado na tecnologia javascript e css. </p>
 
 <p>O site possui a seguinte estrutura: </p> 
 
